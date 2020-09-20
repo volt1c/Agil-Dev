@@ -2,5 +2,5 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=The-Source-Coder&count_private=false&show_icons=true&theme=radical" /><br/ >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Source-Coder&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Source-Coder&count_private=true&show_icons=true&theme=radical&layout=compact" />
 </p>
