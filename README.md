@@ -22,5 +22,7 @@
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" alt="Ubuntu">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows">
   <!--img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt=""-->
 </div>
