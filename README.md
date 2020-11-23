@@ -14,4 +14,12 @@
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="JavaScript">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="JavaScript">
   <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" alt="Arduin">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry-Pi">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" alt="JSON">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudio-Code">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux">
+  <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" alt="Ubuntu">
+  <!--img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt=""-->
 </div>
