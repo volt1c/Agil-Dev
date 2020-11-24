@@ -5,7 +5,7 @@
 
 ## ⚔️ Known / Used
 <div>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#">
   </a>
   <a href="https://isocpp.org/" title="C++">
