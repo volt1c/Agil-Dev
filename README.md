@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Kamil
 
-<img src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=false&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=dracula" />
 
 ## ⚔️ Known / Used
 <div>
