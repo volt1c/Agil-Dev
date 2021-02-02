@@ -4,7 +4,7 @@
 </pre>
 
 ## ⚔️ Known / Used
-<table>
+<table border="0" width="100%">
 <tr>
 <td>
 <div>
