@@ -40,7 +40,6 @@
   <a href="https://www.rust-lang.org/" title="Rust">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
   </a>
-
   <br>
   <a href="https://github.com/" title="GitHub">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub">
