@@ -1,9 +1,12 @@
 # Hi there 👋, I'm Kamil
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=react&layout=compact" />
-<pre></pre>
+<pre>
+</pre>
 
 ## ⚔️ Known / Used
+<table>
+<tr>
+<td>
 <div>
   <a href="" title="">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
@@ -81,3 +84,8 @@
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
 </div>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=react&layout=compact" />
+</td>
+</tr>
