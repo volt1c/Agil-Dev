@@ -4,10 +4,7 @@
 </pre>
 
 ## ⚔️ Known / Used
-<table cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td>
-<div>
+<p align="center">
   <a href="" title="">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
   </a>
@@ -20,18 +17,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML">
   </a>
-  <br>
-    <a href="" title="">
+  <a href="" title="">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java">
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#">
   </a>
-    <a href="https://www.python.org/" title="Python">
+  <a href="https://www.python.org/" title="Python">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python">
   </a>
-  <br>
-    <a href="https://www.cprogramming.com/" title="C">
+  <a href="https://www.cprogramming.com/" title="C">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" alt="C">
   </a>
   <a href="https://isocpp.org/" title="C++">
@@ -40,7 +35,6 @@
   <a href="https://www.rust-lang.org/" title="Rust">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
   </a>
-  <br>
   <a href="https://github.com/" title="GitHub">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub">
   </a>
@@ -53,8 +47,7 @@
   <a href="#" title="Terminal">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal">
   </a>
-  <br>
-    <a href="https://www.microsoft.com/en-US/windows" title="Windows">
+  <a href="https://www.microsoft.com/en-US/windows" title="Windows">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows">
   </a>
   <a href="https://www.linux.org/" title="Linux">
@@ -66,7 +59,6 @@
   <a href="https://www.raspberrypi.org/" title="Raspberry-Pi">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry-Pi">
   </a>
-  <br>
   <a href="https://www.mysql.com/" title="MySQL">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL">
   </a>
@@ -82,9 +74,7 @@
   <!--a href="" title="">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
-</div>
-</td>
-<td>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=react&layout=compact" />
-</td>
-</tr>
+</p>
