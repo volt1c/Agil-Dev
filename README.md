@@ -1,9 +1,16 @@
 # Hi there 👋, I'm Kamil
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agil-Dev" alt="visitors" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MoneyIgos&theme=onedark">
+</p>
+
 <pre>
 </pre>
 
-## ⚔️ Known / Used
+## ⚔️ Known & Used
 <p align="center">
   <a href="" title="">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
@@ -76,5 +83,9 @@
   </a-->
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&count_private=true&show_icons=true&theme=react&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=tokyonight" />
 </p>
+<!--p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Agil-Dev&theme=tokyonight" />
+</p-->
