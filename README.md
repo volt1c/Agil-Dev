@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Agil-Dev" alt="visitors" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoneyIgos&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=Agil-Dev&theme=onedark">
 </p>
 
 <pre>
