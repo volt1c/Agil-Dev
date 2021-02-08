@@ -12,7 +12,10 @@
 
 ## ⚔️ Known & Used
 <p align="center">
-  <a href="" title="">
+  <a href="" title="Node">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="node">
+  </a>
+  <a href="" title="TypeScript">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
