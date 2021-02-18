@@ -122,8 +122,8 @@
   </a-->
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=dark" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&theme=dark" />
