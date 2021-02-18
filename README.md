@@ -48,6 +48,9 @@
   <a href="https://github.com/" title="GitHub">
     <img width="45" src="./assets/github.png" alt="GitHub">
   </a>
+  <a title="Npm" href="https://www.npmjs.com/">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" alt="Npm's logo" />
+  </a>
   <a href="https://git-scm.com/" title="Git">
     <img width="45" src="./assets/git.png" alt="Git">
   </a>
