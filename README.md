@@ -128,3 +128,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&theme=dark" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Agil-Dev&theme=dark" />
+</p>
