@@ -10,6 +10,16 @@
 <pre>
 </pre>
 
+<hr>
+
+### 👀 I want to learn
+* <img src="./assets/vue.png" width="16"/> Vue.js
+* <img src="./assets/mongodb.png" width="16"/> MongoDB
+
+### 📚 I'm actually learning
+* <img src="./assets/nasm.png" width="16"/> NASM
+* <img src="./assets/node.js.png" width="16"/> express.js
+
 ## ⚔️ Known & Used
 
 <p align="center">
