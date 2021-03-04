@@ -7,7 +7,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Agil-Dev&theme=onedark">
 </p>
 
-<hr>
+---
+
+### ❤️‍ My favorite technologies
+* <img src="./assets/csharp.png" width="16"/> CSharp
+* <img src="./assets/java.png" width="16"/> Java
 
 ### 👀 I want to learn
 * <img src="./assets/vue.png" width="16"/> Vue.js
@@ -17,7 +21,7 @@
 * <img src="./assets/nasm.png" width="16"/> NASM
 * <img src="./assets/node.js.png" width="16"/> express.js
 
-## ⚔️ Known & Used
+## 🧠 Known & Used
 
 <p align="center">
   <a href="" title="Node">
@@ -128,6 +132,9 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
 </p>
+
+## 📈 Readme stats
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=true&show_icons=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=dark" />
