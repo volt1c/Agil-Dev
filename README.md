@@ -18,7 +18,7 @@
 * <img src="./assets/mongodb.png" width="16"/> MongoDB
 
 ### 📚 I'm actually learning
-* <img src="./assets/nasm.png" width="16"/> NASM
+* <img src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" width="16"/> Rust
 * <img src="./assets/node.js.png" width="16"/> express.js
 
 ## 🧠 Known & Used
@@ -62,6 +62,10 @@
 
   <a href="https://www.cprogramming.com/" title="C">
     <img width="40" src="./assets/c.png" alt="C">
+  </a>
+
+  <a href="" title="kotlin">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin">
   </a>
 
   <a href="https://www.python.org/" title="Python">
