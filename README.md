@@ -52,6 +52,10 @@
     <img width="40" src="./assets/java.png" alt="Java">
   </a>
 
+  <a href="" title="kotlin">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin">
+  </a>
+
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img width="40" src="./assets/csharp.png" alt="C#">
   </a>
@@ -64,16 +68,12 @@
     <img width="40" src="./assets/c.png" alt="C">
   </a>
 
-  <a href="" title="kotlin">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin">
+  <a href="https://www.rust-lang.org/" title="Rust">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
   </a>
 
   <a href="https://www.python.org/" title="Python">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python">
-  </a>
-
-  <a href="https://www.rust-lang.org/" title="Rust">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
   </a>
 
   <a href="https://github.com/" title="GitHub">
