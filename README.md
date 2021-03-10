@@ -144,7 +144,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=dark" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&layout=compact&theme=dark" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Agil-Dev&theme=dark" />
