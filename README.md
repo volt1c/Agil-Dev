@@ -132,6 +132,10 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pip/pip.png" alt="Pip">
   </a>
 
+  <a title="Editorconfig" href="https://editorconfig.org/">
+    <img height="40" src="https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png" alt="Editorconfig's logo" />
+  </a>
+  
   <!--a href="" title="">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
