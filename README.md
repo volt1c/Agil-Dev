@@ -119,9 +119,6 @@
 ## 📈 Readme stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=volt1c" alt="visitors" />
-</p>
-<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=volt1c&theme=onedark">
 </p>
 <p align="center">
