@@ -1,27 +1,10 @@
-# Hi there 👋
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Agil-Dev" alt="visitors" />
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Agil-Dev&theme=onedark">
-</p>
-
----
-
-### ❤️‍ My favorite technologies
+<!--
+## 🔎 My favorite technologies
 * <img src="./assets/csharp.png" width="16"/> CSharp
 * <img src="./assets/java.png" width="16"/> Java
+-->
 
-### 👀 I want to learn
-* <img src="./assets/vue.png" width="16"/> Vue.js
-* <img src="./assets/mongodb.png" width="16"/> MongoDB
-
-### 📚 I'm actually learning
-* <img src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" width="16"/> Rust
-* <img src="./assets/node.js.png" width="16"/> express.js
-
-## 🧠 Known & Used
+## 🛠 I worked with
 
 <p align="center">
   <a href="" title="Node">
@@ -52,10 +35,6 @@
     <img width="40" src="./assets/java.png" alt="Java">
   </a>
 
-  <a href="" title="kotlin">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" alt="kotlin">
-  </a>
-
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
     <img width="40" src="./assets/csharp.png" alt="C#">
   </a>
@@ -70,10 +49,6 @@
 
   <a href="https://www.rust-lang.org/" title="Rust">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
-  </a>
-
-  <a href="https://www.python.org/" title="Python">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python">
   </a>
 
   <a href="https://github.com/" title="GitHub">
@@ -128,14 +103,14 @@
     <img width="40" src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" alt="Prettier's logo" />
   </a>
 
-  <a href="https://pypi.org/project/pip/" title="Pip">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pip/pip.png" alt="Pip">
-  </a>
-
   <a title="Editorconfig" href="https://editorconfig.org/">
     <img height="40" src="https://panic.com/blog/wp-content/uploads/2015/02/edcon_color_transbg2.png" alt="Editorconfig's logo" />
   </a>
   
+  <a href="" title="">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
+  </a>
+
   <!--a href="" title="">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
@@ -144,12 +119,18 @@
 ## 📈 Readme stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agil-Dev&count_private=true&show_icons=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agil-Dev&layout=compact&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=volt1c" alt="visitors" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=volt1c&theme=onedark">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volt1c&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volt1c&layout=compact&theme=dark" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&layout=compact&theme=dark" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Agil-Dev&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volt1c&theme=dark" />
 </p>
