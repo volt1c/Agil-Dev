@@ -126,7 +126,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volt1c&layout=compact&theme=dark" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgilDev&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=volt1c&layout=compact&theme=dark" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volt1c&theme=dark" />
