@@ -1,10 +1,11 @@
-## 🕯 About me
+## Hey 👋
 
 I'm a young software developer with a passion for programming. I managed to gain experience by creating mostly open-source projects alone and a few in a team. I started with c++ and C# but I find more interest in **javascript**/**typescript** because of the possibilities of these technologies.
 
-## 🔎 My favorite languages
+## 💚 My favorite technologies
 
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
+- <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="16"/> Vue
 - <img src="./assets/java.png" width="16"/> Java
 
 ## 🔭 I want to learn
@@ -12,9 +13,9 @@ I'm a young software developer with a passion for programming. I managed to gain
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
 - <img src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" width="16"/> Nuxt.js
 
-## 🛠 I worked with
+## 🧠 I worked with
 
-<p align="center">
+<p>
   <a href="" title="Node">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="node">
   </a>
