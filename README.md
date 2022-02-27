@@ -1,8 +1,16 @@
-<!--
-## 🔎 My favorite technologies
-* <img src="./assets/csharp.png" width="16"/> CSharp
-* <img src="./assets/java.png" width="16"/> Java
--->
+## 🕯 About me
+
+I'm a young software developer with a passion for programming. I managed to gain experience by creating mostly open-source projects alone and a few in a team. I started with c++ and C# but I find more interest in **javascript**/**typescript** because of the possibilities of these technologies.
+
+## 🔎 My favorite languages
+
+- <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
+- <img src="./assets/java.png" width="16"/> Java
+
+## 🔭 I want to learn
+
+- <img src="https://go.dev/favicon.ico" width="16"/> Go
+- <img src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" width="16"/> Nuxt.js
 
 ## 🛠 I worked with
 
@@ -22,6 +30,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
   </a>
+  <a href="" title="">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="">
+  </a>
   <a href="https://git-scm.com/" title="Git">
     <img width="40" src="./assets/git.png" alt="Git">
   </a>
@@ -37,6 +48,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML">
   </a>
+  <a href="" title="PHP">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="php">
+  </a>  
   <a href="" title="Java">
     <img width="40" src="./assets/java.png" alt="Java">
   </a>
@@ -93,12 +107,6 @@
 
 ## 📈 Readme stats
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=volt1c&theme=onedark">
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volt1c&count_private=true&show_icons=true&theme=dark" />
-</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=volt1c&layout=compact&theme=dark" />
 </p>
