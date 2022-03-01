@@ -7,6 +7,7 @@ I'm a young software developer with a passion for programming. I managed to gain
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="16"/> Vue
 - <img src="./assets/java.png" width="16"/> Java
+- <img src="./assets/csharp.png" width="16"/> CSharp
 
 ## 🔭 I want to learn
 
