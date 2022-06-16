@@ -6,8 +6,8 @@ I'm a young software developer with a passion for programming. I managed to gain
 
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="16"/> Vue
-- <img src="./assets/java.png" width="16"/> Java
-- <img src="./assets/csharp.png" width="16"/> CSharp
+- <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="16"/> React
+- <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="16"/> Express.js
 
 ## 🔭 I want to learn
 
@@ -32,8 +32,8 @@ I'm a young software developer with a passion for programming. I managed to gain
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
   </a>
-  <a href="" title="">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="">
+  <a href="" title="express">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="express">
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img width="40" src="./assets/git.png" alt="Git">
@@ -95,11 +95,11 @@ I'm a young software developer with a passion for programming. I managed to gain
   <a href="" title="">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png" alt="mongoose">
   </a>
-  <a href="" title="">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="vue's logo">
+  <a href="" title="vue">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" alt="vue">
   </a>
-  <a href="" title="">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="">
+  <a href="" title="react">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react">
   </a>
 
   <!--a href="" title="">
