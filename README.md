@@ -5,14 +5,17 @@ I'm a young software developer with a passion for programming. I managed to gain
 ## 💚 My favorite technologies
 
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
-- <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="16"/> Vue
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="16"/> React
-- <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="16"/> Express.js
+- <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt=""> nest.js
 
 ## 🔭 I want to learn
 
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
-- <img src="https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png" width="16"/> Nuxt.js
+- <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" width="16"/> Flask
+
+## 🧱 I'm currently learning
+
+- <img src="https://remix.run/favicon-dark.1.png" width="16"/> Remix
 
 ## 🧠 I worked with
 
@@ -34,6 +37,9 @@ I'm a young software developer with a passion for programming. I managed to gain
   </a>
   <a href="" title="express">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="express">
+  </a>
+    <a href="" title="">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt="">
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img width="40" src="./assets/git.png" alt="Git">
