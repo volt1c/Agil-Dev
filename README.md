@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a young software developer with a passion for programming. I managed to gain experience by creating mostly open-source projects alone and a few in a team. I started with c++ and C# but I find more interest in **javascript**/**typescript** because of the possibilities of these technologies.
+I'm a software developer with a passion for programming. I managed to gain experience by creating commercial and open-source projects. I used to program in C# but in the end, I found more interest in javascript/typescript because of the vast possibilities of these technologies.
 
 ## 💚 My favorite technologies
 
