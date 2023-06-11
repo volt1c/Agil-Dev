@@ -6,16 +6,18 @@ I'm a software developer with a passion for programming. I managed to gain exper
 
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="16"/> TypeScript
 - <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="16"/> React
-- <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt=""> nest.js
+- <img width="16" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"> ASP.NET
 
 ## 🔭 I want to learn
 
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
 - <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" width="16"/> Flask
 
+<!--
 ## 🧱 I'm currently learning
 
-- <img src="https://remix.run/favicon-dark.1.png" width="16"/> Remix
+- <img src="" width="16"/> ---
+-->
 
 ## 🧠 I worked with
 
@@ -34,6 +36,9 @@ I'm a software developer with a passion for programming. I managed to gain exper
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwindcss">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwindcss">
   </a>
   <a href="" title="express">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="express">
@@ -62,8 +67,8 @@ I'm a software developer with a passion for programming. I managed to gain exper
   <a href="" title="Java">
     <img width="40" src="./assets/java.png" alt="Java">
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
-    <img width="40" src="./assets/csharp.png" alt="C#">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="ASP.NET C#">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" alt="ASP.NET C#">
   </a>
   <a href="https://www.rust-lang.org/" title="Rust">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" alt="Rust">
@@ -106,6 +111,9 @@ I'm a software developer with a passion for programming. I managed to gain exper
   </a>
   <a href="" title="react">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="react">
+  </a>
+  <a href="https://mui.com/" title="MUI">
+    <img width="40" src="https://mui.com/static/logo.png" alt="MUI logo">
   </a>
 
   <!--a href="" title="">
