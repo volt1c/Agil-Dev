@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a software developer with a passion for programming. I managed to gain experience by creating commercial and open-source projects. I used to program in C# but in the end, I found more interest in javascript/typescript because of the vast possibilities of these technologies.
+I'm a software developer with a passion for programming. I managed to gain experience by creating commercial and open-source projects. I feel proficient in communicating with the team and am conscientious when performing my duties.
 
 ## 💚 My favorite technologies
 
@@ -11,7 +11,6 @@ I'm a software developer with a passion for programming. I managed to gain exper
 ## 🔭 I want to learn
 
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
-- <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" width="16"/> Flask
 
 <!--
 ## 🧱 I'm currently learning
@@ -31,6 +30,9 @@ I'm a software developer with a passion for programming. I managed to gain exper
   <a href="https://yarnpkg.com/" title="Yarn">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yarn/yarn.png" alt="yarn">
   </a>
+  <a href="https://bun.sh/" title="Bun">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bun/bun.png" alt="bun">
+  </a>
   <a href="https://www.typescriptlang.org/" title="TypeScript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
   </a>
@@ -43,16 +45,16 @@ I'm a software developer with a passion for programming. I managed to gain exper
   <a href="" title="express">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="express">
   </a>
-    <a href="" title="">
+    <a href="" title="NestJS">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" alt="">
   </a>
   <a href="https://git-scm.com/" title="Git">
     <img width="40" src="./assets/git.png" alt="Git">
   </a>
-  <a href="" title="">
+  <a href="" title="Python">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="">
   </a>
-  <a href="" title="">
+  <a href="" title="PIP">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pip/pip.png" alt="">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
@@ -115,7 +117,15 @@ I'm a software developer with a passion for programming. I managed to gain exper
   <a href="https://mui.com/" title="MUI">
     <img width="40" src="https://mui.com/static/logo.png" alt="MUI logo">
   </a>
-
+  <a href="https://flask.palletsprojects.com/en/3.0.x/">
+    <img src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" width="40" alt="Flask"/>
+  </a>
+  <a href="https://insomnia.rest/" title="Insomnia">
+    <img width="40" src="https://insomnia.rest/favicon.ico" alt="Insomnia">
+  </a>
+  <a href="https://www.postman.com/" title="Postman">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" alt="Insomnia">
+  </a>
   <!--a href="" title="">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics//.png" alt="">
   </a-->
