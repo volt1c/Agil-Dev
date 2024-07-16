@@ -34,11 +34,8 @@ I'm a software developer with a passion for programming. I managed to gain exper
   <a href="https://bun.sh/" title="Bun">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bun/bun.png" alt="bun">
   </a>
-  <a href="https://bun.sh/" title="Bun">
-    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bun/bun.png" alt="bun">
-  </a>
-  <a href="https://www.nuget.org/" title="Nuget">
-    <img width="40" src="https://www.nuget.org/favicon.ico" alt="nuget">
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
@@ -72,6 +69,9 @@ I'm a software developer with a passion for programming. I managed to gain exper
   </a>  
   <a href="" title="Java">
     <img width="40" src="./assets/java.png" alt="Java">
+  </a>
+  <a href="https://www.nuget.org/" title="Nuget">
+    <img width="40" src="https://www.nuget.org/favicon.ico" alt="nuget">
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="ASP.NET C#">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" alt="ASP.NET C#">
