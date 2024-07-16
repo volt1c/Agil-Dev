@@ -11,6 +11,7 @@ I'm a software developer with a passion for programming. I managed to gain exper
 ## 🔭 I want to learn
 
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
+- <img src="https://symfony.com/favicons/favicon.svg" width="16"/> Symfony
 
 <!--
 ## 🧱 I'm currently learning
