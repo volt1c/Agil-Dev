@@ -12,6 +12,7 @@ I'm a software developer with a passion for programming. I managed to gain exper
 
 - <img src="https://go.dev/favicon.ico" width="16"/> Go
 - <img src="https://symfony.com/favicons/favicon.svg" width="16"/> Symfony
+- <img src="https://laravel.com/img/logomark.min.svg" width="16"/> Laravel
 
 <!--
 ## 🧱 I'm currently learning
